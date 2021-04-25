@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gayathrimanikandan
+- 👋 Hi, I’m Gayathri
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently studying my master's degree. 
 - 💞️ I’m looking to collaborate on projects related to Data Science.
