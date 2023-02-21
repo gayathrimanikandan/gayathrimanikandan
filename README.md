@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gayathri
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently studying my master's degree. 
+- 🌱 I’m currently working as Software Engineer. 
 - 💞️ I’m looking to collaborate on projects related to Data Science.
 - 📫 How to reach me https://www.linkedin.com/in/gayathri-manikandan/
 
